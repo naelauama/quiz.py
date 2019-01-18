@@ -39,3 +39,5 @@ run_quest(q9, ansU, check, q9CorAns)
 run_quest(q10, ansU, check, q10CorAns)
 
 print("score: ", SCORE * 10)
+print("If you don't have a 100 you can always do better!")
+print("Thank you for taking my quiz!")
